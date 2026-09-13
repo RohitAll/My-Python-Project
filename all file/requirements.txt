@@ -1,0 +1,20 @@
+PySide6>=6.5.0
+fastapi>=0.100.0
+uvicorn>=0.22.0
+websockets>=11.0
+google-genai>=0.1.0
+openai>=1.0.0
+speechrecognition>=3.10.0
+pyttsx3>=2.90
+edge-tts>=6.1.0
+pygame>=2.5.0
+pyaudio>=0.2.13
+psutil>=5.9.0
+pyautogui>=0.9.54
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+googlesearch-python>=1.2.0
+pywin32; platform_system=='Windows'
+comtypes; platform_system=='Windows'
